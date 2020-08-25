@@ -4,7 +4,7 @@
 ## FAN
 
 Code   | Description
--------|------------ 
+-------|------------
 1FE49B6|ON/OFF
 1FE51AE|MUTE
 1FEE11E|OSCILLATE
@@ -17,7 +17,7 @@ Code   | Description
 ## PROJECTOR
 
 Code | Extra  | Description
------|--------|------------ 
+-----|--------|------------
 C40BF|478D4251|ON/OFF
 CC03F|E6634757|PLAY/PAUSE
 CF00F|259E3845|MENU
@@ -162,3 +162,15 @@ PANASONIC;4004;48;1000E0F|RED
 PANASONIC;4004;48;1008E8F|GREEN
 PANASONIC;4004;48;1004E4F|YELLOW
 PANASONIC;4004;48;100CECF|BLUE
+
+## A/C
+
+Code           | Description
+---------------|------------
+NEC;32;619648b7|POWER
+NEC;32;619658a7|TEMP UP
+NEC;32;61967887|TEMP DOWN
+NEC;32;619640bf|MODE
+NEC;32;6196a05f|TIMER SET
+NEC;32;619610ef|TIMER RESET
+NEC;32;619600ff|SWING
